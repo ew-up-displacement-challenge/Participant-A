@@ -80,8 +80,11 @@ Invoke the application via the Dashboard with the parameters listed in the test 
 
 | Output                                                             | Size |
 |--------------------------------------------------------------------|------|
-
-TBW
+| AggancioComune.sav | 1.26 KB	| 
+| AreaComune_Geo.sav | 1.54 KB	|
+| Componente_East_882x886.dat | 2.98 MB	|
+| Componente_Up_882x886.dat | 2.98 MB	|
+| MaskAreaComm_882x886.dat | 2.98 MB |
 
 * Test pass/fail criteria
 
@@ -104,8 +107,11 @@ Invoke the application via the Dashboard with the parameters listed in the test 
 
 | Output                                                             | Size |
 |--------------------------------------------------------------------|------|
-
-TBW
+| AggancioComune.sav | 1.26 KB	| 
+| AreaComune_Geo.sav | 1.54 KB	|
+| Componente_East_882x886.dat | 2.98 MB	|
+| Componente_Up_882x886.dat | 2.98 MB	|
+| MaskAreaComm_882x886.dat | 2.98 MB |
 
 * Test pass/fail criteria
 
